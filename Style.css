@@ -1,0 +1,29 @@
+nav{
+	padding:20px;
+}
+h1{
+	text-align:center;
+}
+.mainhead{
+	text-align:center;
+	padding: 10px;
+	text-color: black;
+}
+.header{
+	text-align:center;
+	background-color:#13204f;
+	color:white;
+	padding:5px;
+}
+.text{
+	padding:10px;
+	color:#0b0338;
+	line-height:2;
+}
+.box{
+	padding:5px;
+	background-color:#807b7a;
+	color:#040338;
+	border:10px;
+	border-style:none;
+}
